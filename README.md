@@ -4,7 +4,7 @@ An interactive Power BI dashboard for monitoring sales, gross profit, product pe
 
 ## Dashboard preview
 
-![E-commerce Sales Dashboard](./dashboard-preview.png)
+![E-commerce Sales Dashboard](./E-commerce-Sales-Dashboard.pdf)
 
 ## Dashboard overview
 
