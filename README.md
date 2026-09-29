@@ -4,7 +4,7 @@ An interactive Power BI dashboard for monitoring sales, gross profit, product pe
 
 ## Dashboard preview
 
-![E-commerce Sales Dashboard](./ecommerce.png)
+![E-commerce Sales Dashboard](./dashboard-preview.png)
 
 ## Dashboard overview
 
@@ -64,6 +64,7 @@ The Power BI model contains:
 ├── E-commerce.pbix
 ├── Ecommerce_Sales_Dataset.xlsx
 ├── E-commerce-Sales-Dashboard.pdf
+├── dashboard-preview.png
 ├── ecommerce.png
 └── README.md
 ```
