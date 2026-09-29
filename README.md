@@ -63,7 +63,6 @@ The Power BI model contains:
 .
 ├── E-commerce.pbix
 ├── Ecommerce_Sales_Dataset.xlsx
-├── E-commerce-Sales-Dashboard.pdf
 ├── dashboard-preview.png
 ├── ecommerce.png
 └── README.md
@@ -77,7 +76,7 @@ The Power BI model contains:
 4. Refresh the model.
 5. Use the dropdown slicers to filter the report.
 
-The PDF provides a static preview for users who do not have Power BI Desktop.
+The dashboard preview image allows users to review the report layout without Power BI Desktop.
 
 ## Skills demonstrated
 
